@@ -8,7 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>03-spring-boot-actuator-demo</name>
+	<name>04-spring-boot-commandline-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -41,19 +41,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 		</dependency>
-
-		<!-- ADD SUPPORT FOR SPRING BOOT ACTUATOR -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-actuator</artifactId>
-		</dependency>
-
-		<!-- ADD SUPPORT FOR SPRING SECURITY -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-security</artifactId>
-		</dependency>
-				
+	
 	</dependencies>
 
 	<build>
