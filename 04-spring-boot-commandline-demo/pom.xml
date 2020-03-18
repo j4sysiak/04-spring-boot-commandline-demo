@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>pl.jaceksysiak.springboot.demo</groupId>
-	<artifactId>03-spring-boot-actuator-demo</artifactId>
+	<artifactId>04-spring-boot-commandline-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
